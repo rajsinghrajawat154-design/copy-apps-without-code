@@ -32,3 +32,5 @@ If you don't set `ANTHROPIC_API_KEY`, paste your key into the sidebar field inst
 
 - Keep `app.py` bound to `127.0.0.1` for personal use. If you deploy it publicly, add authentication and rate limiting first, or anyone could spend your API credit.
 - Quality depends on the screenshot: clear, full-width screenshots give the best results. Opus gives the most accurate output, Haiku is cheapest.
+## disclaimer
+this is just the demo 
